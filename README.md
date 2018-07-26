@@ -1,4 +1,4 @@
-# apollo-graphql
+# apollo-graphql example
 
 Server: Node Express + Apollo graphql server
 ------
